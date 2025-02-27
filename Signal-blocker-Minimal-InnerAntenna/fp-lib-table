@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Signal-blocker-Minimal-InnerAntenna")(type "KiCad")(uri "$(KIPRJMOD)/Signal-blocker-Minimal-InnerAntenna.pretty")(options "")(descr ""))
+)
